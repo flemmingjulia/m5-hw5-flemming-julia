@@ -1,11 +1,40 @@
-.topnav {
-    background-color:#DA7445;
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
 }
 
-.topnav a {
+body {
+    background-image: url() ;
+}
+header {
+    background-color:#DA7445;
+    color: white;
+    padding: 14px 16px;
+}
+
+nav a {
     float: left;
     color:white;
     text-align: center;
-    padding: 14px 16px;
+    margin: 0 10px;
+    text-decoration: none;
     font-size: 17px;
+}
+
+main {
+    width: 70%;
+    display: inline-block ;
+}
+
+aside {
+    width: 25%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.headshot{
+  float: left;
+  margin: 0 20px 20px 0;
+
 }
