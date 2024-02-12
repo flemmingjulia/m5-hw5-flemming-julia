@@ -5,12 +5,12 @@
 }
 
 body {
-    background-image: url() ;
+    background-image: url(images/mmc5277.png) ;
 }
 header {
     background-color:#DA7445;
     color: white;
-    padding: 14px 16px;
+    padding: 20px 16px;
 }
 
 nav a {
@@ -35,6 +35,5 @@ aside {
 
 .headshot{
   float: left;
-  margin: 0 20px 20px 0;
-
+  margin: 20px;
 }
