@@ -35,5 +35,9 @@ aside {
 
 .headshot{
   float: left;
-  margin: 20px;
+  margin: 300px;
+}
+
+h1, h2 {
+    font-size: large;
 }
