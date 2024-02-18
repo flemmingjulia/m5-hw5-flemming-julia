@@ -41,3 +41,7 @@ headshot{
 h1, h2 {
     font-size: large;
 }
+
+img {
+    object-fit: scale-down;
+}
