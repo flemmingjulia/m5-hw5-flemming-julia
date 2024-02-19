@@ -47,9 +47,9 @@ aside {
     padding: 20px;
 }
 
-headshot{
+.headshot{
   float: left;
-  margin: 300px;
+  margin: 0 20px 20px 0;
 }
 
 h1, h2 {
