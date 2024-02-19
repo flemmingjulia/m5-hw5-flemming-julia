@@ -43,5 +43,5 @@ h1, h2 {
 }
 
 img {
-    object-fit: scale-down;
+    width: 500px;
 }
