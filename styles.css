@@ -5,14 +5,23 @@
 }
 
 body {
-    background-image: url(images/mmc5277.png) ;
+    background-image: url(images/mmc5277.png);
+}
+.container {
+    max-width: 900px;
+    margin: 0 auto;
 }
 header {
     background-color:#DA7445;
     color: white;
     padding: 20px 16px;
+    border-bottom: 3px;
 }
-
+nav {
+    width: 45%;
+    display: inline-block;
+    text-align: right;
+}
 nav a {
     float: left;
     color:white;
@@ -21,7 +30,10 @@ nav a {
     text-decoration: none;
     font-size: 17px;
 }
-
+h1 {
+    width: 50%;
+    display: inline-block ;
+}
 main {
     width: 70%;
     display: inline-block ;
@@ -43,5 +55,11 @@ h1, h2 {
 }
 
 img {
-    width: 500px;
+    width: 300px;
+
+}
+aside {
+    width: 25%;
+    display: inline-block;
+    vertical-align: top;
 }
