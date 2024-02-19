@@ -67,7 +67,7 @@ aside {
     width: 25%;
     display: inline-block;
     vertical-align: top;
-    flood-color: right;
+    float: right;
 }
 footer {
     background-color: #F1B580;
