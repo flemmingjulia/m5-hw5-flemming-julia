@@ -53,7 +53,7 @@ headshot{
 }
 
 h1, h2 {
-    font-size: large;
+    font-size: ;
 }
 
 img {
@@ -64,4 +64,9 @@ aside {
     width: 25%;
     display: inline-block;
     vertical-align: top;
+}
+footer {
+    background-color: #F1B580;
+    text-align: center;
+    padding: 20px 0;
 }
