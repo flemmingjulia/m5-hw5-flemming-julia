@@ -63,12 +63,7 @@ img {
     width: 300px;
 
 }
-aside {
-    width: 25%;
-    display: inline-block;
-    vertical-align: top;
-    float: right;
-}
+
 footer {
     background-color: #F1B580;
     text-align: center;
